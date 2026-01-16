@@ -39,9 +39,4 @@ The dashboards empower HR teams and management with actionable insights to stren
 
 ---
 
-## 📷 Dashboard Preview
-*(Add screenshots of your Power BI dashboard here for visual impact)*  
-Example:
-```markdown
-![HR Overview](screenshots/hr_dashboard1.png)
-![Attrition Trends](screenshots/hr_dashboard2.png)
+
